@@ -6,10 +6,10 @@ def Fizz_Buzz(number)
       elsif number % 5==0
         "Buzz"
       else number.to_s
-        
+
    end
-  
-  
+
+
 end
 
 puts "数字を入力してください"
